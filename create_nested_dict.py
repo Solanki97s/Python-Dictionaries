@@ -1,0 +1,15 @@
+myfaimly={
+    "Child1":
+    {"Name":"Ankit",
+     "Age":6
+    },
+    "Child2":
+    {"Name":"Pawan",
+     "Age":7
+    },
+    "Child3":
+    {"Name":"Harshit",
+     "Age":5
+    }
+}
+print(myfaimly)
